@@ -307,7 +307,7 @@ Loss Function: Categorical Crossentropy
         <div style="text-align:center;">
             <h3>👩‍💻 Created by Avni Singh</h3>
             <p>
-                🔗 <a href="https://github.com/yourusername" target="_blank">
+                🔗 <a href="https://github.com/avnisinngh" target="_blank">
                 Visit My GitHub</a>
             </p>
         </div>
@@ -319,3 +319,4 @@ Loss Function: Categorical Crossentropy
 # ================= GLOBAL FOOTER =================
 st.markdown("---")
 st.caption("© 2026 Avni Singh | Iris Classification using ANN & Perceptron")
+
